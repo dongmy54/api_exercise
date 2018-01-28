@@ -12,3 +12,4 @@ json.number train.number
 
 json.available_seats train.available_seats
 json.created_at train.created_at
+json.train_url api_v1_train_url(train.number)
